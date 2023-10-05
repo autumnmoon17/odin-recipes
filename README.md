@@ -1,0 +1,1 @@
+This project is a basic recipe website. It is part of an assignment in The Odin Project course.
